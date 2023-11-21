@@ -1,0 +1,31 @@
+.container{
+    background-color: rgb(175, 153, 153);
+    display: flex;
+    margin-top: auto;
+    align-items: center;
+    justify-content: center;
+}
+.info{
+    margin: 5%;
+}
+.photo{
+    height: 150px;
+    width: 250px;
+    
+}
+.body{
+    background-color: rgb(175, 153, 153);
+    height: 500px;
+    width: 500px;
+    margin: auto;
+    
+}
+.cv{
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    font-style: italic;
+    display: flex;
+    margin-left: 60%;
+    margin-top: 10%;
+    
+}
